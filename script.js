@@ -1,1 +1,2 @@
-//your JS code here. If required.
+let select = document.getElementById("colorSelect");
+  select.remove(select.selectedIndex);
